@@ -1,0 +1,204 @@
+1597987279329	geckodriver	INFO	Listening on 127.0.0.1:47347
+1597987279442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNrLnF0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597987290733	Marionette	INFO	Listening on port 33229
+1597987290806	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1597987297351	Marionette	INFO	Stopped listening on port 33229
+1597987600881	geckodriver	INFO	Listening on 127.0.0.1:41451
+1597987600893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexCR6KX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597987606035	Marionette	INFO	Listening on port 33581
+1597987606112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597987785193	geckodriver	INFO	Listening on 127.0.0.1:60209
+1597987785287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4jVVlU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597987792357	Marionette	INFO	Listening on port 43095
+1597987792420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597987968594	Marionette	INFO	Stopped listening on port 43095
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1597987974817	Marionette	INFO	Stopped listening on port 33581
+1597987982756	geckodriver	INFO	Listening on 127.0.0.1:52989
+1597987982843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefvIPh1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597987991866	Marionette	INFO	Listening on port 42297
+1597987991886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597988024215	Marionette	INFO	Stopped listening on port 42297
+1597988027640	geckodriver	INFO	Listening on 127.0.0.1:33457
+1597988027651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTrZPD9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988033772	Marionette	INFO	Listening on port 42191
+1597988035611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988068798	geckodriver	INFO	Listening on 127.0.0.1:52055
+1597988068810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileALj4PG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988074295	Marionette	INFO	Listening on port 34815
+1597988074332	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597988111272	Marionette	INFO	Stopped listening on port 42191
+1597988118927	Marionette	INFO	Stopped listening on port 34815
+1597988276573	geckodriver	INFO	Listening on 127.0.0.1:34475
+1597988276584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWicQV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988281870	Marionette	INFO	Listening on port 39463
+1597988281904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988377739	Marionette	INFO	Stopped listening on port 39463
+1597988389400	geckodriver	INFO	Listening on 127.0.0.1:40167
+1597988389412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2rGqMu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988394770	Marionette	INFO	Listening on port 37865
+1597988394830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597988399407	Marionette	INFO	Stopped listening on port 37865
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1597988422046	geckodriver	INFO	Listening on 127.0.0.1:55509
+1597988422059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMVpL6N"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988427131	Marionette	INFO	Listening on port 37739
+1597988427178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597988432118	Marionette	INFO	Stopped listening on port 37739
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988650156	geckodriver	INFO	Listening on 127.0.0.1:36287
+1597988650167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyDzrkB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988655261	Marionette	INFO	Listening on port 37887
+1597988655311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988664150	Marionette	INFO	Stopped listening on port 37887
+1597988723137	geckodriver	INFO	Listening on 127.0.0.1:48959
+1597988723147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjzldk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988728297	Marionette	INFO	Listening on port 37459
+1597988728365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988737304	Marionette	INFO	Stopped listening on port 37459
+1597988794690	geckodriver	INFO	Listening on 127.0.0.1:43781
+1597988794724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCwu20q"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988800347	Marionette	INFO	Listening on port 43073
+1597988800466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988809720	Marionette	INFO	Stopped listening on port 43073
+1597988839115	geckodriver	INFO	Listening on 127.0.0.1:57715
+1597988839125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAiF8IC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597988844198	Marionette	INFO	Listening on port 45395
+1597988844246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597988860869	Marionette	INFO	Stopped listening on port 45395
+1597990423761	geckodriver	INFO	Listening on 127.0.0.1:40301
+1597990424790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9ZlL1w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597990434712	Marionette	INFO	Listening on port 40025
+1597990434758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597990473138	geckodriver	INFO	Listening on 127.0.0.1:41235
+1597990473266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCrK2B"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597990485067	Marionette	INFO	Listening on port 34809
+1597990485124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597990499599	Marionette	INFO	Stopped listening on port 34809
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+1597990643437	geckodriver	INFO	Listening on 127.0.0.1:42115
+1597990643569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNnP5i7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597990654113	Marionette	INFO	Listening on port 34693
+1597990654130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597990665849	Marionette	INFO	Stopped listening on port 34693
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597990716272	Marionette	INFO	Stopped listening on port 40025
+1597991863225	geckodriver	INFO	Listening on 127.0.0.1:37611
+1597991864257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenk1fUn"
+Exiting due to channel error.
+Exiting due to channel error.
+1597991899471	geckodriver	INFO	Listening on 127.0.0.1:51853
+1597991899483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileObSynw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597991906213	Marionette	INFO	Listening on port 32989
+1597991906357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597991973504	Marionette	INFO	Stopped listening on port 32989
+1597991978518	geckodriver	INFO	Listening on 127.0.0.1:42391
+1597991978528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0C0SZg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597991983430	Marionette	INFO	Listening on port 33143
+1597991983474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597991993287	Marionette	INFO	Stopped listening on port 33143
+1597992033095	geckodriver	INFO	Listening on 127.0.0.1:37845
+1597992033107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7nZ0W"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597992038073	Marionette	INFO	Listening on port 43715
+1597992038130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1597992047241	Marionette	INFO	Stopped listening on port 43715
+1598023104853	geckodriver	INFO	Listening on 127.0.0.1:38931
+1598023106006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTRHZPo"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598023146447	Marionette	INFO	Listening on port 40227
+1598023147746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1598023184486	Marionette	INFO	Stopped listening on port 40227
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A0006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1598023309843	geckodriver	INFO	Listening on 127.0.0.1:55391
+1598023309947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Fpv9Y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598023323621	Marionette	INFO	Listening on port 45177
+1598023323735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+JavaScript error: https://www.accuweather.com/bundles/ad-manager.d02ec2c92ecd68eb6a19.js, line 2: TypeError: pbjs.getBidResponsesForAdUnitCode is not a function
+1598023335913	Marionette	INFO	Stopped listening on port 45177
